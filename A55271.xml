@@ -1,0 +1,434 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Poem upon occasion of the happy discovery of the late horrid plot against the life of His Most Sacred Majesty</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55271</idno>
+            <idno type="STC">Wing P2713</idno>
+            <idno type="STC">ESTC R28447</idno>
+            <idno type="EEBO-CITATION">10594988</idno>
+            <idno type="OCLC">ocm 10594988</idno>
+            <idno type="VID">45337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Poem upon occasion of the happy discovery of the late horrid plot against the life of His Most Sacred Majesty</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Roper and E. Wilkinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Not to be confused with 'A Poem occasion'd by the happy discovery of the horrid and most barbarous conspiracy', the present work begins 'Once more, ye sacred nine, my breast inspire'"--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  England --  Poetry.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45337:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>A POEM Upon Occaſion of the Happy DISCOVERY OF THE <hi>Late Horrid Plot</hi> Againſt the Life of His moſt Sacred Majeſty.</p>
+            <q>
+               <l>O Socii, revocate animos moeſtumque timorem</l>
+               <l>Mittite: forſan &amp; haec olim meminiſſe juvabit.</l>
+               <l>Pygmalion, ſcelere ante alios immanior omnes.</l>
+               <bibl>
+                  <hi>Virg. Aen. l. 1.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Roper</hi> and <hi>E. Wilkinſon</hi> at the <hi>Black Boy</hi> in <hi>Fleetſtreet.</hi> MDCXCVI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45337:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <pb facs="tcp:45337:2"/>
+            <!-- PDF PAGE 50 -->
+            <head>TO My Lord DORSET.</head>
+            <lg>
+               <l>AS when of old in the triumphant Times</l>
+               <l>Of Poetry, before the Plague of Rhimes,</l>
+               <l>
+                  <hi>Apollo</hi>'s Sons the lov'd <hi>Maecenas</hi>-choſe</l>
+               <l>To Patronize the Labours of their Muſe:</l>
+               <l>Nor were the greateſt Wits his only Care,</l>
+               <l>The lower Orb had a becoming Share.</l>
+               <l>So in this Age, where-e'er <hi>Parnaſſus</hi> stands,</l>
+               <l>Your Lordſhip all the Region commands.</l>
+               <l>Her eldeſt Sons, with flowing Numbers crown'd,</l>
+               <l>Deſcend to Earth, and compaſs you around.</l>
+               <l>Nor muſt You take it ill from younger Wings,</l>
+               <l>A ſtronger flight from <hi>Dorſet</hi>'s Favour ſprings.</l>
+            </lg>
+            <lg>
+               <l>Accept, My Lord, a Youthful, humble Muſe,</l>
+               <l>That, labour what I can, my Thoughts purſues.</l>
+               <l>My buſie Mind, with Loyalty poſſeſt,</l>
+               <l>Diſlikes it cloſe and hid within my breaſt.</l>
+               <l>Nor ſhould the reſt, ſo much oblig'd to Write,</l>
+               <l>Forbear their Pens, when Themes, like this, invite.</l>
+            </lg>
+            <lg>
+               <l>Others, my Lord, with <hi>Pegaſean</hi> Force,</l>
+               <l>Are able to attain the labour'd Courſe:</l>
+               <l>
+                  <pb facs="tcp:45337:3"/>
+                  <!-- PDF PAGE 51 -->My following Muſe, more humble in her Strains,</l>
+               <l>Attempts no Goal upon the crowded Plains.</l>
+               <l>Enough for me, whilſt others ſcoure the Place,</l>
+               <l>And ſwiftly meaſure out the bounded Space,</l>
+               <l>Not to be laſt in the contending Race.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:45337:3"/>
+            <!-- PDF PAGE 51 -->
+            <head>A POEM <hi>ON THE</hi> DISCOVERY OF THE <hi>Late Horrid Plot.</hi>
+            </head>
+            <lg>
+               <l>ONce more, ye Sacred Nine, my Breaſt inſpire,</l>
+               <l>And kindly warm it with Poetick Fire:</l>
+               <l>No common Theme your Influence invokes,</l>
+               <l>No Battel urges, nor Heroick Strokes</l>
+               <l>Of Generous War, perform'd in open Field,</l>
+               <l>Where Routed Foes do to the Victor yield:</l>
+               <l>A different Cauſe doth your joint Aids require,</l>
+               <l>My Voice engages, and new-ſtrings my Lyre.</l>
+            </lg>
+            <lg>
+               <l>Seven times had the bright Sun fulfill'd his Courſe</l>
+               <l>In Zodiack Circle, and had ſpread his Force</l>
+               <l>Amongſt the Signs, whoſe Influences ſhew</l>
+               <l>The Fated Courſe of all Events below:</l>
+               <l>A Space that had produc'd the greateſt things,</l>
+               <l>Whether in War, or Policy, for Kings.</l>
+               <l>
+                  <pb n="2" facs="tcp:45337:4"/>
+                  <!-- PDF PAGE 52 -->Amongſt the reſt, Two only were Renown'd,</l>
+               <l>Both had their Turns, and were with Laurel crown'd.</l>
+               <l>Not equal both in Juſtice of the War,</l>
+               <l>Nor could in Valour boaſt an equal Share:</l>
+               <l>The King of <hi>Gaul</hi> by wild Ambition fir'd,</l>
+               <l>New Homages and without Lands requir'd.</l>
+               <l>Which to obtain, without Pretence of Right,</l>
+               <l>Is dangerous, and would demand long Fight.</l>
+               <l>Ignoble therefore, but at home Secure,</l>
+               <l>For ſafety doth Neglect of Fame endure:</l>
+               <l>Bold of Advice, his Generals He Sends</l>
+               <l>To undertake the Toils, which He commends.</l>
+               <l>With equal Force the Battel they diſdain,</l>
+               <l>But draw their numerous Armies on the Plain.</l>
+               <l>Mean while their ſubtle King's creating Mould</l>
+               <l>Gains over many a Foe with its ſeducing Gold.</l>
+            </lg>
+            <lg>
+               <l>Not ſo Fair <hi>Albion</hi>'s King, the Pride of War,</l>
+               <l>The Age's Hero, and the <hi>Gaul</hi>'s Deſpair.</l>
+               <l>The God like Prince, ſway'd by more generous Fates</l>
+               <l>Fights for Himſelf, and his Confederates.</l>
+               <l>With eager haſte he croſſes o'er the Main</l>
+               <l>Each Year, and for the Battel ſtays with Pain.</l>
+               <l>He flies where'er his Tents of Canvaſs roll,</l>
+               <l>And to each armed Troop imparts his Soul.</l>
+               <l>Then draws them out in well-diſpos'd Array,</l>
+               <l>And very hardly from the Foe can ſtay.</l>
+            </lg>
+            <lg>
+               <l>Thus when two Sovereign Bees collect their Pow<g ref="char:EOLhyphen"/>ers,</l>
+               <l>(For theirs a perfect Emblem is to ours)</l>
+               <l>The Rival Kings their wing'd Battalions lead,</l>
+               <l>And each prepares his own with chearful Speed:</l>
+               <l>Draws all his Squadrons up in Rank and File,</l>
+               <l>And with Impatience waits the coming Broil.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:45337:4"/>
+               <!-- PDF PAGE 52 -->
+               <l>The Signal giv'n, to dreadful Work they fall,</l>
+               <l>Shouts, Drums, and Trumpets mix with Cannon-Ball:</l>
+               <l>Swords, Spears, and Battel-axes, prove their Force,</l>
+               <l>And Death ſtalks up and down without Remorſe.</l>
+               <l>Each minute is ſhe ſeen, a rapid Flood,</l>
+               <l>That overwhelms at once whole Ranks in Blood.</l>
+               <l>Fiercely ſhe moves, and with a horrid Sound</l>
+               <l>Deals Ruine and Confuſion all around.</l>
+               <l>The War grows hot, and like a mighty Sea,</l>
+               <l>Sways this way now, compell'd by the Decree</l>
+               <l>Of the ſtrong Tide, to combat with the Wind,</l>
+               <l>Which now prevailing, drives it back behind.</l>
+               <l>Alternately they ſeem to fall and riſe,</l>
+               <l>Both tugging hard for the Victorious Prize:</l>
+               <l>So fares the War. <hi>William</hi> undaunted ſtands,</l>
+               <l>And with fierce Looks diſpences his Commands.</l>
+               <l>Then animates his Men, and in their Sight,</l>
+               <l>Plunges amidſt the Tumult of the Fight.</l>
+               <l>There needs no more: his great Example made</l>
+               <l>Such Havock, nor was firſt his Fury laid,</l>
+               <l>Till the proud Foe, champing his Teeth, gave ground,</l>
+               <l>Whilſt quick Retreat the haſty Trumpets ſound.</l>
+            </lg>
+            <lg>
+               <l>Continual War had been the practis'd Art,</l>
+               <l>And <hi>William</hi>'s Labours ſhone in every part:</l>
+               <l>Witneſs <hi>Hibernian</hi> Fields, and rapid Flood</l>
+               <l>Of <hi>Boyne,</hi> o'erflowing with a Tide of Blood:</l>
+               <l>Of Human Blood, whilſt all its Banks were ſpread</l>
+               <l>With Carcaſſes of the Promiſcuous Dead.</l>
+               <l>Here the bold Monarch venturing too far,</l>
+               <l>A Bullet glancing did his Shoulder ſoar.</l>
+               <l>Nor did He leave Engaging on the Strand,</l>
+               <l>Till haſty Conqueſt had reſtor'd the Land.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:45337:5"/>
+               <!-- PDF PAGE 53 -->
+               <l>As when two Clouds encounter in the Air,</l>
+               <l>And grappling with the horrid Shocks of War,</l>
+               <l>Burſt out at laſt, and down the Thunder falls</l>
+               <l>With glittering Lightning, quick as th' <hi>Optick</hi> Balls:</l>
+               <l>With ſuch a Speed our Hero did advance,</l>
+               <l>And ſwiftly drove away the Force of <hi>France.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nor ſtops he there, whoſe Courage more than Pow'r</l>
+               <l>Gains but a Crown, that was his own before.</l>
+               <l>To <hi>Flanders</hi> next he makes with full-blown Sails,</l>
+               <l>And <hi>Neptune</hi> wafts him with auſpicious Gales.</l>
+               <l>Supply'd with eager Aids his Force he leads,</l>
+               <l>No Danger ſhakes him, nor no Chance impedes.</l>
+               <l>All Arts of War he doth with Honour know,</l>
+               <l>Neglects no time, but ſtudies all the Foe.</l>
+               <l>To each Ally convenient Succour ſends,</l>
+               <l>And Univerſal Liberty defends.</l>
+            </lg>
+            <lg>
+               <l>Now had inconſtant <hi>Luna</hi> chang'd her Face</l>
+               <l>Above a ſcore of times, and borrow'd Grace</l>
+               <l>And radiant Brightneſs from <hi>Apollo</hi>'s Beams,</l>
+               <l>To chear the darkſome Night with lucid Streams:</l>
+               <l>Since <hi>Ludovicus,</hi> in his Court ſecure,</l>
+               <l>Heard much of Arms, of Conqueſt now no more.</l>
+               <l>He heard how <hi>William</hi> had oppos'd his Force,</l>
+               <l>Stopt his Advances, and diſturb'd his Courſe.</l>
+               <l>How <hi>Namur</hi>'s Walls, invincible in Thought,</l>
+               <l>Were by his Arms to quick Subverſion brought:</l>
+               <l>Whilſt all his Troops, embattel'd in Array,</l>
+               <l>Stood gazing on, and calmly loſt the Day.</l>
+               <l>Fortune he ſaw declining from his Side,</l>
+               <l>Still changeable, and moving with the Tide.</l>
+               <l>
+                  <pb n="5" facs="tcp:45337:5"/>
+                  <!-- PDF PAGE 53 -->He knew the Rule, ſo proper to each State,</l>
+               <l>Not to proceed is a Regreſſive Fate.</l>
+               <l>He ſaw his People Poor, and in Diſtreſs,</l>
+               <l>And daily found his Reputation leſs.</l>
+               <l>His Fleet divided, and his Ships confin'd</l>
+               <l>Within their ſeveral Ports; no Gale of Wind</l>
+               <l>Provok'd the lazy Sails, but calm and mild,</l>
+               <l>Seem'd to have loſt the Uſe of being fill'd.</l>
+            </lg>
+            <lg>
+               <l>All went amiſs, Ambition found no Hopes</l>
+               <l>Of Univerſal Empire:</l>
+               <l>She ſaw an Adverſary Prince ariſe</l>
+               <l>Above a common Height, Juſt, Valiant, Wiſe:</l>
+               <l>One, whom old Bards Prophetically ſung,</l>
+               <l>And rais'd his future Fame with bold <hi>Cumaean</hi> Tongue:</l>
+               <l>His many Laurels were pronounc'd of old,</l>
+               <l>His God-like Vertues, and<note n="*" place="margin">One of his Ance<g ref="char:EOLhyphen"/>ſtors wore the Im<g ref="char:EOLhyphen"/>perial Crown.</note> Imperial Mould.</l>
+               <l>Truth, Juſtice, Mildneſs, Wiſdom, are his Guides:</l>
+               <l>Theſe form his Valour, which in War decides.</l>
+               <l>The only Potent Prince, that could withſtand</l>
+               <l>The Force of <hi>France,</hi> and limit its Command.</l>
+               <l>His People generally lov'd his Sway,</l>
+               <l>And without Force conſented to obey.</l>
+               <l>They knew his Vertues, and his Princely Mind,</l>
+               <l>His native Diſpoſition to be kind,</l>
+               <l>His dangerous Attempt to ſave their Laws,</l>
+               <l>His daily Fighting to defend their Cauſe:</l>
+               <l>Great Proofs of Kindneſs, and Heroick Worth,</l>
+               <l>When Kings in Perſon lead their Armies forth!</l>
+            </lg>
+            <lg>
+               <l>The <hi>Engliſh</hi> are a free-born, generous Race,</l>
+               <l>That love Dominion, nor its Rules deface,</l>
+               <l>
+                  <pb n="6" facs="tcp:45337:6"/>
+                  <!-- PDF PAGE 54 -->Or break, when ſuch within the Compaſs be</l>
+               <l>Of their old conſtituted Liberty.</l>
+               <l>In War and Peace the ſoundeſt Maxims hold,</l>
+               <l>Wiſe in Advice, in Execution bold.</l>
+               <l>In Valour far above their Neighbours fam'd,</l>
+               <l>And great Aſſertors of their Freedoms Nam'd.</l>
+               <l>All lawful Taxes without Murmur pay,</l>
+               <l>And every juſt decree of State obey.</l>
+               <l>A Kingly Government the Nation loves,</l>
+               <l>Their Monarchy all fear of Chains removes.</l>
+               <l>Prerogative and Liberty are mixt</l>
+               <l>So equally, and ſo ſecurely fixt,</l>
+               <l>So nicely interwoven in one peice,</l>
+               <l>That neither juſtly can his Bounds increaſe.</l>
+               <l>O happy State of <hi>Albion,</hi> that brings,</l>
+               <l>Such Benefits to People, and to Kings!</l>
+            </lg>
+            <lg>
+               <l>All this Ambition knew, and ſtreight agreed</l>
+               <l>To raiſe her drooping Hopes, the King muſt bleed.</l>
+               <l>The ſingle Remedy that could be found</l>
+               <l>To prop her broken Fame, and to regain her Ground.</l>
+               <l>Nor only ſo; the Perſpective had made</l>
+               <l>A fairer Sight, new Lands of Conqueſt laid.</l>
+               <l>Streight ſhe imparts what ſhe had found in view</l>
+               <l>To all her Court, who great Rejoycings ſhew,</l>
+               <l>And murmur their Applauſe to kill the Foe.</l>
+            </lg>
+            <lg>
+               <l>With utmoſt haſte her Miniſters ſhe ſent,</l>
+               <l>Prepar'd to excecute the dire Intent:</l>
+               <l>Revenge and Murder, with their meagre Train</l>
+               <l>Of Followers, Pride, Uproar, and Diſdain,</l>
+               <l>Madneſs, Confuſion, and a horrid Crowd</l>
+               <l>Of Native Plagues were to infeſt the Road,</l>
+               <l>
+                  <pb n="7" facs="tcp:45337:6"/>
+                  <!-- PDF PAGE 54 -->Whilſt the good King, ſecure within his Coach,</l>
+               <l>Calm in his Thoughts, and fearing no Reproach;</l>
+               <l>Thoughtleſs of Arms to labour his Defence,</l>
+               <l>(The Good are ſafe in their own Innocence)</l>
+               <l>Was with a fierce, unlimited Diſdain,</l>
+               <l>Without Remorſe, to be attack'd and Slain:</l>
+               <l>Had not Almighty Providence maintain'd</l>
+               <l>Its own beſt Cauſe, and their wild Hands reſtrain'd.</l>
+            </lg>
+            <lg>
+               <l>Barbarous Men! with what an open Guilt</l>
+               <l>And daring, they proceeded to have ſpilt</l>
+               <l>Imperial Blood, which we ſo dearly hold,</l>
+               <l>That every Drop is worth a Mine of Gold?</l>
+               <l>And juſtly too, ſince there collected lies</l>
+               <l>The Joy of <hi>Europe;</hi> and its Miſeries</l>
+               <l>When once He fails, ſpring from the weighty loſs:</l>
+               <l>Great reaſon then has <hi>Europe</hi> to rejoyce,</l>
+               <l>And ſing his Safety with exalted Voice.</l>
+            </lg>
+            <lg>
+               <l>Wond'rous Deliverance! nor could it be</l>
+               <l>Leſs than a Miracle for Liberty.</l>
+               <l>Almighty Power with influencing hand</l>
+               <l>Was felt by ſome of the Conſpiring Band.</l>
+               <l>Its Efficacy grew, till by degrees</l>
+               <l>It form'd them wiſer, and unclos'd their Eyes.</l>
+               <l>They look upon their Act with horrid Senſe,</l>
+               <l>And now betake themſelves to Penitence.</l>
+               <l>Without Reluctance to the King they go</l>
+               <l>And give him Caution of the Lurking Foe.</l>
+               <l>Declare the Stratagem of Murder loud,</l>
+               <l>The Combination of a numerous Crowd,</l>
+               <l>Engag'd by Subtle <hi>Ludovicus</hi> Art,</l>
+               <l>In order to effect th' Invading part:</l>
+               <l>
+                  <pb n="8" facs="tcp:45337:7"/>
+                  <!-- PDF PAGE 55 -->Thus we had ſeen all Plagues of War increaſe,</l>
+               <l>And Deſolation brought to Lands of Peace:</l>
+            </lg>
+            <lg>
+               <l>So the fam'd Powder-Plot, (whoſe black Intent</l>
+               <l>Was to involve the King and Parliament</l>
+               <l>At once in Ruins, and o'erturn the State,</l>
+               <l>By bringing Popery to work its Fate)</l>
+               <l>By ſome Conſpiring Hand, tho' much conceal'd</l>
+               <l>In Myſtick Words, was happily reveal'd.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45337:7"/>
+            <!-- PDF PAGE 55 -->
+         </div>
+      </body>
+   </text>
+</TEI>
